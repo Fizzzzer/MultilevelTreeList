@@ -2,6 +2,7 @@
 Multilevel tree list for Android.
 
 >快速实现Android多级树形列表，这个库是在鸿洋多级树形列表demo中修改而来。
+[详情请转至博客](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0115/7024.html)
 
 >**解决的问题**：
 
